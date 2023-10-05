@@ -10,3 +10,7 @@ document.addEventListener('DOMContentLoaded', function () {
         });
     }
 });
+
+window.onload = function () {
+    // Aucun code supplémentaire à exécuter ici
+};
