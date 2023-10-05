@@ -3,6 +3,7 @@ document.addEventListener('DOMContentLoaded', function () {
     var imageLink = document.getElementById('redirectLink');
 
     if (imageLink) {
+        console.log("rak dkhlti bsbatk am3lm")
         imageLink.addEventListener('click', function (event) {
             event.preventDefault();
             window.location.href = redirectLink;
