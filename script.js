@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', function () {
     // var redirectLink = 'https://www.anrdoezrs.net/click-100951081-15494765';
     // window.location.href = redirectLink;
 
-    var redirectLink = 'https://www.anrdoezrs.net/click-100951081-15494765';
+    var redirectLink = '[placeholder5]';
     var imageLink = document.getElementById('redirectLink');
 
     if (imageLink) {
